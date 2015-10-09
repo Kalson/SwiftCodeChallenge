@@ -2,7 +2,7 @@
 //  Human.swift
 //  
 //
-//  Created by KaL on 6/22/15.
+//  Modified by KaL on 8/22/15.
 //
 //
 
